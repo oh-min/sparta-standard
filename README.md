@@ -1,4 +1,8 @@
 ## TODO List
+
+- [ ] responseDto, requestDto, Controller 생성
+- [ ] Entity 생성
+
 - [ ] 게시글 작성 API 구현
   - [ ] 게시글 작성 서비스 구현
   - [ ] 게시글 작성 예외 케이스 구현
